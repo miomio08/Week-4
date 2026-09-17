@@ -1,0 +1,28 @@
+Week 4 experiments
+Pathway: My story
+Website / 3D page: My 3D view: How I've grown vs Miles Morales
+
+Experiment
+What I expected: I expect the sphere to be higher than it was originally.
+File and code/value I changed: I changed the sphere.position.y from 1 to 5
+What I observed (or exact error): The sphere changed positions on the y-axis and moved up 4 spaces.
+What I kept, restored, or corrected: The original model was not changed, the only thing they was replaced was the positioning.
+My next test: I will try to change the diameter of the sphere to see how it changes the original scene.
+
+Changes I made:
+- Changed JS message
+- Changed visible status text
+- Changed sphere's vertical position
+- Added/edited my story to compare it to Miles Morales' from Spider-man: Into the Spiderverse
+
+Future tests and ideas:
+- Test changing the size of the sphere
+- Try changing lighting
+
+Final checks
+Website -> 3D page -> website:
+Scene and description agree:
+Narrow and wide layout:
+Keyboard navigation:
+Console errors / unresolved issues:
+Peer observation and correction:
